@@ -12,8 +12,10 @@
         - [L2 for IP](#L2 for IP)
 
 
+
 ## <a name="Active_searches"></a> Active searches
 ### <a name=""></a>  Active object search ( [**link to file**](Active Searches/active object search.pdf) )
+
 In this paper, we study the problem of active visual search (AVS) in large, unknown, or partially known environments.
 We argue that by making use of uncertain semantics of the envi- ronment, a robot tasked with finding an object can devise
 efficient search strategies that can locate everyday objects at the scale of an entire building floor, which is previously
@@ -27,6 +29,7 @@ Our results show that AVS strategies that exploit uncertain semantics of the env
 and our method pushes the state-of-the-art forward in AVS.
 
 ### <a name="LKP_Manipulation_based_guided_search"></a> LKP Manipulation based guided search ( [**link to file**](Active Searches/LKP_Manipulation_based_guided_search.pdf) )
-Object search is an integral part of daily life, and in the quest for competent mobile manipulation robots it is an unavoidable problem. Previous approaches focus on cases where objects are in unknown rooms but lying out in the open, which transforms object search into active visual search. However, in real life, objects may be in the back of cupboards occluded by other objects, instead of conveniently on a table by themselves. Extending search to occluded objects requires a more precise model and tighter integration with manipulation. We present a novel generative model for representing container contents by using object co-occurrence information and spatial constraints. Given a target object, a planner uses the model to guide an agent to explore containers where the target is likely, potentially needing to move occluding objects to enable further perception. We demonstrate the model on simulated domains and a detailed simulation involving a PR2 robot.
+
+Object search is an integral part of daily life, and in the quest for competent mobile manipulation robots it is an unavoidable problem. Previous approaches focus on cases where objects are in unknown rooms but lying out in the open, which transforms object search into active visual search. However,in real life, objects may be in the back of cupboards occluded by other objects, instead of conveniently on a table by themselves. Extending search to occluded objects requires a more precise model and tighter integration with manipulation. We present a novel generative model for representing container contents by using object co-occurrence information and spatial constraints. Given a target object, a planner uses the model to guide an agent to explore containers where the target is likely, potentially needing to move occluding objects to enable further perception. We demonstrate the model on simulated domains and a detailed simulation involving a PR2 robot.
 
 People will be adding the abstract of the research papers so that you can directly access the research paper of your interest.
