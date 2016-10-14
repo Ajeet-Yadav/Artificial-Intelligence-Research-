@@ -33,8 +33,8 @@ and our method pushes the state-of-the-art forward in AVS.
 Object search is an integral part of daily life, and in the quest for competent mobile manipulation robots it is an unavoidable problem. Previous approaches focus on cases where objects are in unknown rooms but lying out in the open, which transforms object search into active visual search. However,in real life, objects may be in the back of cupboards occluded by other objects, instead of conveniently on a table by themselves. Extending search to occluded objects requires a more precise model and tighter integration with manipulation. We present a novel generative model for representing container contents by using object co-occurrence information and spatial constraints. Given a target object, a planner uses the model to guide an agent to explore containers where the target is likely, potentially needing to move occluding objects to enable further perception. We demonstrate the model on simulated domains and a detailed simulation involving a PR2 robot.
 
 ## <a name="#Bayes_and_ML"></a> Bayes and ML
-### <a name="#Bayesian_decision_theory"></a> Bayesian decision theory
-
+### <a name="#Bayesian_decision_theory"></a> Bayesian decision theory ( [**link to file**](Bayes and ML/Bayesian_decision_theory.pdf) )
+Object search is an integral part of daily life, and in the quest for competent mobile manipulation robots it is an unavoidable problem. Previous approaches focus on cases where objects are in unknown rooms but lying out in the open, which transforms object search into active visual search. However,in real life,
 *abstarct coming soon*
 
 ### <a name="#Chap9-Bayesian-Mapping_howie"></a> Chap9 Bayesian Mapping howie
