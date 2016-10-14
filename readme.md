@@ -2,9 +2,9 @@
 
 ## Table of Contents
 - [AIR](#Aritficial intellegence research paper)
-    - [Active Searches](#Active searches)
-        - [Active object search](#Active object search)
-        - [LKP Manipulation based guided search](#LKP Manipulation based guided search)
+    - [Active Searches](#Active_searches)
+        - [Active object search](#Active_object_search)
+        - [LKP Manipulation based guided search](#LKP_Manipulation_based_guided_search)
     - [Bayes and ML](#Bayes and ML)
         - [Bayesian_decision_theory](#Bayesian_decision_theory)
         - [Chap9-Bayesian-Mapping_howie](#Chap9-Bayesian-Mapping_howie)
@@ -12,12 +12,13 @@
         - [L2 for IP](#L2 for IP)
 
 
-## Active searches
-###  Active object search [**link to file**](Active Searches/active object search.pdf)
+## Active_searches
+###  Active_object_search ( [**link to file**](Active Searches/active object search.pdf) )
 In this paper, we study the problem of active visual search (AVS) in large, unknown, or partially known environments.
 We argue that by making use of uncertain semantics of the envi- ronment, a robot tasked with finding an object can devise
 efficient search strategies that can locate everyday objects at the scale of an entire building floor, which is previously
-unknown to the robot. To realize this, we present a probabilistic model of the search en- vironment, which allows for      prioritizing the search effort to those parts of the environment that are most promising for a specific object type. Further,
+unknown to the robot. To realize this, we present a probabilistic model of the search en- vironment, which allows for
+prioritizing the search effort to those parts of the environment that are most promising for a specific object type. Further,
 we describe a method for reasoning about the unexplored part of the environment for goal-directed exploration with
 the purpose of object search. We demonstrate the validity of our approach by comparing it with two other search systems
 in terms of search trajectory length and time. First, we implement a greedy coverage-based search strategy that is found
