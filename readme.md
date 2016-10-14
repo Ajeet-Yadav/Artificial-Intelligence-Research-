@@ -10,6 +10,9 @@
         - [Chap9 Bayesian Mapping howie](#Chap9-Bayesian-Mapping_howie)
         - [Deconvolution](#Deconvolution)
         - [L2 for IP](#L2_for_IP)
+        - [ML fundamentals](#ML_fundamentals)
+        - [MLE](#MLE)
+        - [Structure prediction optimization](#Structure_prediction_optimization)
 
 
 
@@ -37,15 +40,27 @@ Object search is an integral part of daily life, and in the quest for competent 
 
 *abstarct coming soon*
 
-### <a name="Chap9-Bayesian-Mapping_howie"></a> Chap9 Bayesian Mapping howie
+### <a name="Chap9-Bayesian-Mapping_howie"></a> Chap9 Bayesian Mapping howie ( [**link to file**](Bayes and ML/Chap9-Bayesian-Mapping_howie.pdf) )
 
 *abstarct coming soon*
 
-### <a name="Deconvolution"></a> Deconvolution
+### <a name="Deconvolution"></a> Deconvolution ( [**link to file**](Bayes and ML/Deconvolution.pdf) )
 
 *abstarct coming soon*
 
-### <a name="L2_for_IP"></a> L2 for IP
+### <a name="L2_for_IP"></a> L2 for IP ( [**link to file**](Bayes and ML/L2 for IP.pdf) )
+
+*abstarct coming soon*
+
+### <a name="ML_fundamentals"></a> ML fundamentals ( [**link to file**](Bayes and ML/ML_fundamentals.pdf) )
+
+*abstarct coming soon*
+
+### <a name="MLE"></a> MLE ( [**link to file**](Bayes and ML/MLE.pdf) )
+
+*abstarct coming soon*
+
+### <a name="Structure_prediction_optimization"></a> Structure prediction optimization ( [**link to file**](Bayes and ML/Structure_prediction_optimization.pdf) )
 
 *abstarct coming soon*
 
