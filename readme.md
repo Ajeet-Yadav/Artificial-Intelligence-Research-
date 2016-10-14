@@ -13,8 +13,7 @@
 
 
 ## Active searches
-###  Active object search
-   [**link to file**](Active Searches/active object search.pdf)
+###  Active object search [**link to file**](Active Searches/active object search.pdf)
 In this paper, we study the problem of active visual search (AVS) in large, unknown, or partially known environments.
 We argue that by making use of uncertain semantics of the envi- ronment, a robot tasked with finding an object can devise
 efficient search strategies that can locate everyday objects at the scale of an entire building floor, which is previously
