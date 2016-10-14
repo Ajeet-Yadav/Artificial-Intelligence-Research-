@@ -17,7 +17,7 @@
 
 
 ## <a name="Active_searches"></a> Active searches
-### <a name="Active_object_search"></a>  Active object search ( [**link to file**](Active Searches/active object search.pdf) )
+### <a name="Active_object_search"></a>  Active object search ( [**link to file**](Active Searches/active object search.pdf) ) ( [Raavanan](https://github.com/raavanan) )
 
 In this paper, we study the problem of active visual search (AVS) in large, unknown, or partially known environments.
 We argue that by making use of uncertain semantics of the envi- ronment, a robot tasked with finding an object can devise
@@ -31,7 +31,9 @@ in previous work. Second, we let human participants search for objects as an alt
 Our results show that AVS strategies that exploit uncertain semantics of the environment are a very promising idea,
 and our method pushes the state-of-the-art forward in AVS.
 
-### <a name="LKP_Manipulation_based_guided_search"></a> LKP Manipulation based guided search ( [**link to file**](Active Searches/LKP_Manipulation_based_guided_search.pdf) )
+
+
+### <a name="LKP_Manipulation_based_guided_search"></a> LKP Manipulation based guided search ( [**link to file**](Active Searches/LKP_Manipulation_based_guided_search.pdf) ) ( [Raavanan](https://github.com/raavanan) )
 
 Object search is an integral part of daily life, and in the quest for competent mobile manipulation robots it is an unavoidable problem. Previous approaches focus on cases where objects are in unknown rooms but lying out in the open, which transforms object search into active visual search. However,in real life, objects may be in the back of cupboards occluded by other objects, instead of conveniently on a table by themselves. Extending search to occluded objects requires a more precise model and tighter integration with manipulation. We present a novel generative model for representing container contents by using object co-occurrence information and spatial constraints. Given a target object, a planner uses the model to guide an agent to explore containers where the target is likely, potentially needing to move occluding objects to enable further perception. We demonstrate the model on simulated domains and a detailed simulation involving a PR2 robot.
 
