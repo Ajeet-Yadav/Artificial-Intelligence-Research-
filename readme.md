@@ -12,7 +12,7 @@
         - [L2 for IP](#L2 for IP)
 
 
-## Active_searches
+##<a name="Active_object_search"></a> Active_searches
 ###  Active_object_search ( [**link to file**](Active Searches/active object search.pdf) )
 In this paper, we study the problem of active visual search (AVS) in large, unknown, or partially known environments.
 We argue that by making use of uncertain semantics of the envi- ronment, a robot tasked with finding an object can devise
