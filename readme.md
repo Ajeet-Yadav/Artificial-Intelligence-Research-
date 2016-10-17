@@ -18,7 +18,7 @@
             - [3D_Conv_FB](#3D_Conv_FB)
             - [3D_Conv_NEC](#3D_Conv_NEC)
             - [3D_Conv_NEC_J](#3D_Conv_NEC_J)
-        - Action Video Nets](#action_video_nets)
+        - [Action Video Nets](#action_video_nets)
             - [Actions - Transformations](#Actions-Transformations)
             - [Liris-5228](#Liris-5228)
         - [Deep Learning book](#deep_learning_book)
