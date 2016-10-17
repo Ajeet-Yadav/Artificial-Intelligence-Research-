@@ -54,7 +54,7 @@ under the posterior distribution, and the minimal expected loss the covariance o
 
 ### <a name="Chap9-Bayesian-Mapping_howie"></a> Chap9 Bayesian Mapping howie ( [**link to file**](Bayes and ML/Chap9-Bayesian-Mapping_howie.pdf) )
 
-*abstarct coming soon*
+This is not excatly a research paper, It's based on Robotics Intellegence (RI) and talks about the interrelation between Bayesian theory & Simulataneous Localization And Mapping.
 
 ### <a name="Deconvolution"></a> Deconvolution ( [**link to file**](Bayes and ML/Deconvolution.pdf) )
 
