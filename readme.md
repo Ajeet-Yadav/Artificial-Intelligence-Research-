@@ -9,7 +9,7 @@
         - [Bayesian decision theory](#Bayesian_decision_theory)
         - [Chap9 Bayesian Mapping howie](#Chap9-Bayesian-Mapping_howie)
         - [Deconvolution](#Deconvolution)
-        - [L2 for IP](#L2_for_IP)
+        - [L2 for IP](#L2_for_IP) 
         - [ML fundamentals](#ML_fundamentals)
         - [Maximum Likelihood Estimation](#MLE)
         - [Structure prediction optimization](#Structure_prediction_optimization)
